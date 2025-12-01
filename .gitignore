@@ -1,0 +1,12 @@
+# Exclude original binary files (we have markdown versions)
+*.pdf
+*.pptx
+*.docx
+*.zip
+
+# Exclude Google Sheets links (not actual files)
+*.gsheet
+
+# Keep markdown and CSV files
+!*.md
+!*.csv
